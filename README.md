@@ -8,6 +8,6 @@ This is a basic bootloader, that boots up in the bootsector in 16-bit mode and s
 
 ## DEPENDENCIES
 - NASM
-- QEMU Emulator
+- QEMU Emulator for emulating CPU.
 
 ![alt text](running.png)
