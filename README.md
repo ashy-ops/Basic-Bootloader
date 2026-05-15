@@ -8,4 +8,4 @@
 - NASM
 - QEMU Emulator
 
-![alt text](image.png)
+![alt text](running.png)
